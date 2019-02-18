@@ -1,0 +1,11 @@
+{
+  "name": "@figure8/eslint-config",
+  "version": "1.0.0",
+  "description": "Organization base eslint config.",
+  "main": "index.js",
+  "repository": "https://github.com/figure8app/eslint-config",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "^5.13.0"
+  }
+}
