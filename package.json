@@ -1,6 +1,6 @@
 {
   "name": "@figure8/eslint-config",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Organization base eslint config.",
   "main": "index.js",
   "repository": "https://github.com/figure8app/eslint-config",
