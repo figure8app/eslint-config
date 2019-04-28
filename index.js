@@ -26,6 +26,8 @@ module.exports = {
     'object-curly-spacing': [2, "always"],
     'arrow-spacing': [2, { before: true, after: true }],
     'keyword-spacing': [2, { before: true }],
-    'brace-style': [2, "1tbs"]
+    'brace-style': [2, "1tbs"],
+    'space-before-function-paren': [2, { anonymous: "always", named: "never" }],
+    'space-infix-ops': [2, { "int32Hint": true }]
   },
 };
