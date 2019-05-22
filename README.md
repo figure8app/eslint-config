@@ -29,3 +29,22 @@ npm install
 ```
 
 Or let your IDE test it.
+
+## Deployment
+
+This project is a public npm package.
+
+To be able to deploy the package you need to have a npm account and to be a member of @figure8app org.
+
+to deploy the package you need first to increse the version number in the `package.json` file.
+
+After that, go to the project root in the command line and write:
+```
+npm login
+```
+write your details and after login write:
+```
+npm publish --access public
+```
+
+Thats it. you have a new version of this package now :)
