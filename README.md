@@ -7,8 +7,8 @@ Common JavaScript linting configuration for Figure8.
 Install by running:
 
 ```bash
-npm install --save-dev @figure8app/eslint-config@github:figure8app/eslint-config
-yarn add -dev eslint @figure8app/eslint-config@github:figure8app/eslint-config
+npm install --save-dev @figure8app/eslint-config
+yarn add --dev eslint @figure8app/eslint-config
 ```
 
 Then create a `.eslintrc.yml` file with:
