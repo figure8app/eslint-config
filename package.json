@@ -1,5 +1,5 @@
 {
-  "name": "@figure8/eslint-config",
+  "name": "@figure8app/eslint-config",
   "version": "2.1.0",
   "description": "Organization base eslint config.",
   "main": "index.js",
